@@ -26,4 +26,6 @@
 #train the machine learning model and print the classification report of our logistic regression model:
 
 #Model	             Training Accuracy %	    Testing Accuracy %
+
+
 #Logistic Regression	          86.79	                     86.81
